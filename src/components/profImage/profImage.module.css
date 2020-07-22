@@ -1,0 +1,14 @@
+.container{
+    height:150px;
+    width: 150px;
+    border-radius: 100px;
+    background-color: red;
+    overflow: hidden;
+    margin-left: 45%;
+}
+.image{
+    height:200px;
+    width: auto;
+    overflow: hidden;
+    
+}

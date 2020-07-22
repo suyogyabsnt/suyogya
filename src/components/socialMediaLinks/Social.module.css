@@ -1,0 +1,26 @@
+ul{
+    padding:0px;
+    margin-bottom: 2%;
+    
+}
+.list{
+    display: inline;
+    margin:0;
+    margin-right: 10px;
+
+}
+.list a{
+   
+    font-size: 25px;
+    color:rgb(215, 245, 231);
+    transition: color 0.3s;
+}
+
+.fb:hover{
+    color: #3B5998;
+
+}
+
+.lkin:hover{
+    color: #0E76A8;
+}
