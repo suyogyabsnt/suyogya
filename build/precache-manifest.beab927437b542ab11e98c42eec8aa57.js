@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8cd6b81aa775a7f896a456c3d88649e",
+    "revision": "8f2bf59c79df2466c4c472023eee677a",
     "url": "/suyogya/index.html"
   },
   {
-    "revision": "2c1ff3394c5585816684",
-    "url": "/suyogya/static/css/main.45acdf07.chunk.css"
+    "revision": "8a5f32787a2b93f88fc7",
+    "url": "/suyogya/static/css/main.8ccbc9ac.chunk.css"
   },
   {
-    "revision": "9bd1bc41b8ee6d3394f3",
-    "url": "/suyogya/static/js/2.5a9d11af.chunk.js"
+    "revision": "9f6f062a71fbaa378efb",
+    "url": "/suyogya/static/js/2.63c97a15.chunk.js"
   },
   {
     "revision": "3c099fee041ef313c646b75ef1f0ecfa",
-    "url": "/suyogya/static/js/2.5a9d11af.chunk.js.LICENSE.txt"
+    "url": "/suyogya/static/js/2.63c97a15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c1ff3394c5585816684",
-    "url": "/suyogya/static/js/main.f049480c.chunk.js"
+    "revision": "8a5f32787a2b93f88fc7",
+    "url": "/suyogya/static/js/main.025a4c15.chunk.js"
   },
   {
     "revision": "ba749aac1512123e5d5e",
