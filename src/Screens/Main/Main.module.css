@@ -1,0 +1,26 @@
+.MainContainer{
+    text-align: center;
+    align-content: center;
+    background: linear-gradient( rgb(81, 80, 82) ,rgb(140, 139, 140) 150%);
+    min-height: 100vh;
+  
+  }
+  .Name{
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+    color: rgb(215, 245, 231);
+    text-shadow: 5px 0px 8px black;
+    letter-spacing: 3px;
+    margin: 10% 0 3% 0;
+  }
+  
+  h3{
+    color:#ff471a;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+  }
+  
+  
+  
+  
+  

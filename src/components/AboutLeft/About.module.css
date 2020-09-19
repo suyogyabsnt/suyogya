@@ -1,0 +1,20 @@
+.About{
+    font-family: 'Pinyon Script', cursive;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #f7484e;
+    margin:0;
+    min-height: 100vh;
+   
+   
+}
+.AboutText{    
+    font-size: 100px;
+    font-weight: lighter; 
+}
+.Routes{
+    text-align: center;
+}

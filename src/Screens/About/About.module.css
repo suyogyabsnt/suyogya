@@ -1,0 +1,21 @@
+.AboutMainContainer{
+    display: flex;
+    
+    min-height: 100vh;
+    max-height: 100vh;
+    overflow-y: scroll;
+}
+.AboutMainContainer div{
+    flex:1;
+    text-align: center;
+}
+.Sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+
+    
+}
+.AboutInfo{
+   height:auto;
+}

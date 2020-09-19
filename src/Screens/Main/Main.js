@@ -4,10 +4,11 @@ import { TextFocus } from 'react-text-effects';
 
 
 import Routes from '../../components/routes/routes';
-import './App.css';
+import classes from './Main.module.css';
 import Button from '../../components/button/Button';
 import SocialMedia from '../../components/socialMediaLinks/Social';
 import ProfImage from '../../components/profImage/profImage';
+import Name from '../../components/Name/lottiedemo'
 
 const Main=()=>{
   const charPoses = {
@@ -24,15 +25,13 @@ const Main=()=>{
     }
   };
   return (
-    <div className="App">
+    <div className={classes.MainContainer}>
       <h3>
         Front End Developer - React/ReactNative
       </h3>
 
-      <h1 className="Name">
-        <TextFocus type='in' duration='2s'>Suyogya Singh Basnet
-      
-        </TextFocus>
+      <h1 className={classes.Name}>
+        <Name></Name>
       </h1>
       <ProfImage />
       <SocialMedia/>

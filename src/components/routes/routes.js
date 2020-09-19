@@ -4,11 +4,13 @@ import {BrowserRouter as Router, Link} from 'react-router-dom';
 import classes from './routes.module.css'
 
 
-const Routes=()=>{
+const Routes=(props)=>{
+   
+
     return(
         <>
             <Router>
-            <ul className={classes.ulist}>
+            <ul className={classes.ulist} >
                 <li className={classes.list}><Link to="/about"><a>About</a></Link>   </li>
                 <li className={classes.list}>/</li>
                 <li className={classes.list}><Link to="/work">Work</Link></li> 
