@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/suyogya/static/css/main.f319ece8.chunk.css",
-    "main.js": "/suyogya/static/js/main.6d4b93e3.chunk.js",
-    "main.js.map": "/suyogya/static/js/main.6d4b93e3.chunk.js.map",
+    "main.css": "/suyogya/static/css/main.adcd41eb.chunk.css",
+    "main.js": "/suyogya/static/js/main.63a68429.chunk.js",
+    "main.js.map": "/suyogya/static/js/main.63a68429.chunk.js.map",
     "runtime-main.js": "/suyogya/static/js/runtime-main.8ea3c95d.js",
     "runtime-main.js.map": "/suyogya/static/js/runtime-main.8ea3c95d.js.map",
     "static/js/2.8d3d1872.chunk.js": "/suyogya/static/js/2.8d3d1872.chunk.js",
     "static/js/2.8d3d1872.chunk.js.map": "/suyogya/static/js/2.8d3d1872.chunk.js.map",
     "index.html": "/suyogya/index.html",
-    "precache-manifest.a42e639df42a4c849ad6f355effcc376.js": "/suyogya/precache-manifest.a42e639df42a4c849ad6f355effcc376.js",
+    "precache-manifest.29f72d3fa85794f285d94a01a2ed7e28.js": "/suyogya/precache-manifest.29f72d3fa85794f285d94a01a2ed7e28.js",
     "service-worker.js": "/suyogya/service-worker.js",
-    "static/css/main.f319ece8.chunk.css.map": "/suyogya/static/css/main.f319ece8.chunk.css.map",
+    "static/css/main.adcd41eb.chunk.css.map": "/suyogya/static/css/main.adcd41eb.chunk.css.map",
     "static/js/2.8d3d1872.chunk.js.LICENSE.txt": "/suyogya/static/js/2.8d3d1872.chunk.js.LICENSE.txt",
     "static/media/index.css": "/suyogya/static/media/Chandrawinata.b7356978.woff",
     "static/media/Suyogya-Resume.doc": "/suyogya/static/media/Suyogya-Resume.c29ff393.doc",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.8ea3c95d.js",
     "static/js/2.8d3d1872.chunk.js",
-    "static/css/main.f319ece8.chunk.css",
-    "static/js/main.6d4b93e3.chunk.js"
+    "static/css/main.adcd41eb.chunk.css",
+    "static/js/main.63a68429.chunk.js"
   ]
 }
