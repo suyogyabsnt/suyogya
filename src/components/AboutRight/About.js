@@ -5,29 +5,11 @@ import classes from './About.module.css';
 const About=()=>{
     return(
         <div className={classes.About}>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
+            <p>Professionally connected with the web development industry and information technology for many years.</p>
+            <p>Well-organised person, problem solver, independent employee with high attention to detail. Fan of outdoor activities, TV series and, recently, NBA. </p>
+            <p>Interested in the entire frontend spectrum and working on ambitious projects with positive people.</p>
 
-            <h1>About</h1><h1>About</h1>
-
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            <h1>About</h1>
-            
+                
         </div>
     );
 }

@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Main/>
       <About className='About'/>
-      <p>lkjdslkfj</p>
+     
 
     </div>
 

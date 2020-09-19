@@ -1,4 +1,10 @@
 .About{
     font-family: 'Quicksand', sans-serif;
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
+    margin-top: 35%;
+    overflow: hidden;
+}
+
+.About p{
+    font-size: 20px;
 }
